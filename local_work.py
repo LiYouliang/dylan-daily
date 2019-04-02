@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
-import sys
 import subprocess
-import time
-import re
-import urllib.request
 import random
 import logging
 
