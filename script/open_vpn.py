@@ -89,7 +89,7 @@ def get_external_ip():
     print('external ip: ', external_ip)
 
 
-def set_vpn(vpn_host='v.oouka.com', user_name='Astrawu', password='900128'):
+def set_vpn(vpn_host='v.oouka.com', user_name='******', password='******'):
     print('#' * 10,
           '{now:<20}:{msg}'.format(now=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), msg='connect vpn'),
           '#' * 10)
